@@ -1,4 +1,5 @@
 Prerequisites
+
 Make sure you have the following installed:
 
 Docker (version 20.10 or later)
@@ -36,7 +37,7 @@ This will run the nlp_api container and map port 5000 inside the container to po
 
 The API will be accessible at http://127.0.0.1:5000.
 
-API Endpoints
+
 
 Once the container is running, the API will expose the following endpoint:
 
@@ -52,6 +53,7 @@ Example:
 {
   "text": "CompetitorX offers better pricing and a free trial. Our team is considering your AI engine for analytics."
 }
+
 Response: The processed result of the input text.
 
 Example:
