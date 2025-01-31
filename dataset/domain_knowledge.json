@@ -1,0 +1,31 @@
+{
+    "competitors": [
+        "CompetitorX",
+        "CompetitorY",
+        "CompetitorZ",
+        "CompetitorA",
+        "CompetitorB"
+    ],
+    "features": [
+        "analytics dashboard",
+        "AI engine",
+        "data pipeline",
+        "customer support",
+        "reporting tools"
+    ],
+    "pricing_keywords": [
+        "discount",
+        "renewal cost",
+        "budget",
+        "pricing model",
+        "free trial",
+        "subscription fee"
+    ],
+    "security_keywords": [
+        "SOC2 certified",
+        "HIPAA compliance",
+        "GDPR compliant",
+        "data security",
+        "encryption"
+    ]
+}
